@@ -1,0 +1,26 @@
+{
+  "name": "Martin Reeves",
+  "age": 35,
+  "address": {
+    "street": "Keeti Loop",
+    "city": "Muhcennem",
+    "state": "CT",
+    "zip": "46367"
+  },
+  "contact": {
+    "phone": "(309) 476-5637",
+    "servicePhone": "800194491"
+  },
+  "birthday": "1982-04-23T23:32:04.343Z",
+  "ip": "233.201.174.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Osaduabu enezu seto ralsa nunsorik anoge izi cod ebude pa zadbuezu olegi vumab mavedsed. Lashesgem avo jed le lad lun zo lelin kahu ganwor namas urocujkot. Unenubame pouleve damceg velele ta kugdu jusgi li su cozu juprih vejgafwi.",
+    "bio": "Gosemna atjomcal epi rizgah kikwutca loepku fu moon izzorlel ata burjontup pucjude dod pueh lahivzus udairmon. Jemseb aki ivaocbam kogce veco cadagrul vub fode ka wod kizli itmi ukoabu hilos mowo. Fasensa kucal akdo le wudu no puuku ukapisvad una diji zalunwot ogudo el nabepu esu taru mattez."
+  },
+  "apiKey": "d7ac0e676d395f4e8d09d04df125ca872fac440c138dd099bd6842f5060056c2",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
