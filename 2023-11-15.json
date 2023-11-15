@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Sharp",
+  "age": 53,
+  "address": {
+    "street": "Hako Pike",
+    "city": "Gejieg",
+    "state": "ND",
+    "zip": "57278"
+  },
+  "contact": {
+    "phone": "(475) 233-4203",
+    "servicePhone": "800472559"
+  },
+  "birthday": "2003-04-11T13:49:13.730Z",
+  "ip": "72.30.87.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Horumiv togsok kichoj pilsoruhe tupezlam tekipon bembepca pip pu onfak rijbu naeje pemug goskuh. Buejji lolhem soug nazammo fadub mibegicor kuppi upo baom cozriega luw edzimet. Ti jifa panollu jumceda icutut nejbal tizruhi zinci jurunhu nuc al veacka katuc ne.",
+    "bio": "Vowsoti wevuvi bodah mew tiitu caegce do ic mazhid nol ku wurijeri onuhawo gizodi. Vuk ec ozi liwebdap surugup wam ezobifmo geine kip nipatzif iheniduw ro hasgik. Leseelo zofgewe ovufomil ri nibdodpi vejfar fo sofdit dekuf emiel nacsap ove sac. Gozin awum temrer eku fum tusi wo cogkip tujiv tih celowno putar olopef itu wam efaan wasi wehocidif. Tatami zu cukranno henjelvup aboecoreb ta en buvu evkumi lu rag loswazad tagdapu arco eruunbi ligvipo tuno."
+  },
+  "apiKey": "3d09f76d53052d443ea21f7ece974e50f9ec405f3f8559a4e21f7f1fd3c80857",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
