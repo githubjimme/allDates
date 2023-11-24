@@ -1,0 +1,26 @@
+{
+  "name": "Herman Brown",
+  "age": 34,
+  "address": {
+    "street": "Zijwe Parkway",
+    "city": "Sagake",
+    "state": "SC",
+    "zip": "92538"
+  },
+  "contact": {
+    "phone": "(233) 782-6630",
+    "servicePhone": "800451638"
+  },
+  "birthday": "1996-07-10T11:22:06.527Z",
+  "ip": "119.162.203.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Bof jot ho ifva kemij dib pi mivmiko ef zibuzadu kubmih rukesle mud mo furefup pijfewnut gaatati gel. Ehe acetihcul epfume tawur sucemipu jek ve fogu cudepen wunfova pal denu aghiwil jocja ibeah. Jip feno suzuksi zazlaar mibkanib peatu pemro pah edeemoid regmugfeh lalvo beweno hoig wuwha beced lejellu opowoj. Ocu cakamnar gugkob rip ba esefib mep battogiku upelde fejrij velute hu. Bo onnoh forna ve wofufo wafine dugtuvruw mep cepi bon lukujko dar nu ukbag is.",
+    "bio": "Cob te gur vis apisezoh sif et rebvowbe ijo sodzuge sun wunve lutoka wusrizvud dedza ji rehwecpe mozoub. Gupa miz mu tumdig haseki lecwuri necag isenaz ne hembejoh dimi ep tobam lar hakwuf zijipoveg pacra gokojpon. Camtulazu epas ri bizse mirdeza kepti dedtocga uv pegenu fohu revig sajgerhi iku ohdi. Keru uwifulo ravejso ojoekutek uka vug ugavipa he ligiuje li curu wel haf arepan geggar idageiru."
+  },
+  "apiKey": "8fbcc04b950eb2fc98a4a129362be97bd7cd33e5801842d91cd4fe47f07aae6c",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
