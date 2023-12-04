@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Sandoval",
+  "age": 38,
+  "address": {
+    "street": "Ruova Mill",
+    "city": "Muhdevo",
+    "state": "NM",
+    "zip": "57126"
+  },
+  "contact": {
+    "phone": "(275) 623-2697",
+    "servicePhone": "800873959"
+  },
+  "birthday": "1989-09-05T17:40:45.697Z",
+  "ip": "231.51.243.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Alu uhim vebom iti du koddiwzol ni zi coamu tannuece paal de labumi hufderti vakiwsuz zi uneja wabagik. Lumaswif lo ezunaoba nevkokar po aluotauju gipuju koclu ri vuma ko bowavatet ze umewo. Nadez dekti towe vebkajpu ihucuk uda coffe nooru sih kip sikemsal vi kevi mokgi.",
+    "bio": "Pelpaedu ucuni baab utood nonu cipapop oheha tebosah ge vo mafpur piwos awiupi. Ivewizi ap kikudupe winvu tu cudpup noizvun nuzaese mekoz tadgud wutej ha. Wan wida ibi gave bedideju surluz cah is taisdeh pos zawjid zew peog coak dive si."
+  },
+  "apiKey": "a0600135cb4fd5a452fce302d69868ea54c13a76de780a9390007107cc33f9dd",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
