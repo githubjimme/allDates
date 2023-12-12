@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Griffin",
+  "age": 46,
+  "address": {
+    "street": "Udasen Point",
+    "city": "Pokzadet",
+    "state": "MN",
+    "zip": "62112"
+  },
+  "contact": {
+    "phone": "(818) 526-5254",
+    "servicePhone": "800552638"
+  },
+  "birthday": "1984-02-25T13:49:53.594Z",
+  "ip": "43.235.15.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Bomvon tievre ozhumuz dugdu mulbahol zalu cemjiusa megeb maavedeh poba vec gos. Ju beb jeve ezo dib agicu nacuam duvrilal taom filiva kus uh govuc jiv uwi na. Hurodpo geti pa liwag jo susru ab bedebjoc vajepfi hiw neoviti elakufsej izpejjed tijupu laj dadda ko.",
+    "bio": "Jitedka fujebzaf paj ostaw wupero efavute levovuh josfozhu feldujriw cuweciot awoji co tepowcaj hirvidu. Ufu jajkikkit imu jo pevo bodkizro lovaf boni artit jopa duis man sujo. Rolactot biod hi suuhawa jugzuhe bebu vo woru rimo jevzi zu gesrape sigerga jah ci emwarfi."
+  },
+  "apiKey": "d9a404fca2d62fdaea8ad5cf82559caa45d99521203d87e80b718e80ac390ce6",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
