@@ -1,0 +1,26 @@
+{
+  "name": "Glen Curry",
+  "age": 45,
+  "address": {
+    "street": "Senkib Parkway",
+    "city": "Seapigi",
+    "state": "ID",
+    "zip": "65658"
+  },
+  "contact": {
+    "phone": "(221) 727-5656",
+    "servicePhone": "800293914"
+  },
+  "birthday": "1994-02-22T22:18:15.962Z",
+  "ip": "138.213.8.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Borikegi ejewuba os naiv ikacilpa welocrod su fewur es ipupif hovosmud kemnevam ko. Do goro hinu ize ade mav jez jo nevavi jul pu rippek zowjansof. Hu cohajhaf za idul na ven hidiv jokka vap gacopuwe oluka ifapu pas suogi wahoh.",
+    "bio": "Wehuh bon ruwrolir wohubhik oj tol pat wafuw zopdokfif god zafguc cibhida. Titsaslaj ufojikru wanazdo ibaguw ru jo govba etru mastib ucowo himmir pibumar buvebpel mutdihaz. Ulumu kupi jowde jojep ok ici doc ef go sehir ovowatbu pikmizjiz. Toifi je kuf teb vegoub di ilritib wo wecewpan reod litok rioto lumalel upzolop mifapmec newre toilogol."
+  },
+  "apiKey": "b92cadb9f7ab0e02423b792e1e72641f9e83ecab78a855e9eaa56e73864ef8a4",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
