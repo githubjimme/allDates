@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Quinn",
+  "age": 19,
+  "address": {
+    "street": "Agmof Square",
+    "city": "Jimikdik",
+    "state": "IL",
+    "zip": "70585"
+  },
+  "contact": {
+    "phone": "(456) 722-5512",
+    "servicePhone": "800111245"
+  },
+  "birthday": "1988-12-31T13:09:52.073Z",
+  "ip": "24.126.64.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Egi leksuvjic zor ovoc wojopilo tevhaw jo le ker amu heplo zo vudnojfen he roavuza dob seremat kah. Pob igo sig lozzaj aho zez juuhika zufsepki refvohtol rokimag abesasohe tic. Doco loda bic viazwa zuj rifa jucamud kop vewsin jad ic copvohfin kisac lo mad fet. Zekeaho ge bavo iwda kukcof um nufaf sutinpet co fojinig ficnu fuone.",
+    "bio": "Osos berjetid zozo hofa luhap ufeci kavimef secgeh juv ziji zalo tu fiduiw. Taclilfe zo oz si vo gacrahpe go ire mut seciwu orror gilob iso. Pew sogcaveb azjoeju me hev iwiib coahivog kabozfe an pig rud sigba dem si."
+  },
+  "apiKey": "7e2f3b835eddb65292fe2cae39932fc1d9cd52b4ad337932eeaf49c76eafebfb",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
