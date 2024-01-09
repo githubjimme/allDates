@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Snyder",
+  "age": 25,
+  "address": {
+    "street": "Tedo Parkway",
+    "city": "Cumwamlu",
+    "state": "LA",
+    "zip": "60254"
+  },
+  "contact": {
+    "phone": "(863) 474-8446",
+    "servicePhone": "800938218"
+  },
+  "birthday": "2001-11-20T17:40:50.007Z",
+  "ip": "206.234.16.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Daw invi wibjuzo gimuzeg heruruf op eg ofu kelakteb pifnen dojdudca hibapav ipameki mapluse ohez fidkeddo jar jovo. Zif abzi dapwicrib wic va cup cepif an ojorovbik gedin acekukog jelubzac. Zet moj weljafda en nevhih kec egowom jok su dekguso coc ci eg vup ef zehzi. Tilvioja cek tagdogoru olridab lezapuw anu umiva ovajeb hazegci huzge kidbefzul cir zarudlo.",
+    "bio": "Tot zubvezu bet uso me mubhot suketup redkoz pojitno pec seb cohen capukej imadana vetu. Wi casvug kama jepopnoc lov tugivogu emzi nicuri un ze aju dulejosug. Bevog teejuah uzanili leknus gabiw egivi tit bimgehe zarhov dit ga oba. Diftoag hadkohvin ci hapcu sicono olasiijo tiecage jap ajvajo cob har fog rafipi pe he apo. Topohtem nazihe tejzicguz jufesen cesab jug fahokzo oggefa ecfe da elfisas nu ka cecku zazobo herivuf dih. Fuktur lov lejgosrec joecabik bowra sa cug inmunli fasije tu pa zimat si aticovtuh hawibiv azabas."
+  },
+  "apiKey": "27d56eedf880be2037dd6d1002843b15dff358c3725e29c16adfbd0d683b793a",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
