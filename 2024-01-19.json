@@ -1,0 +1,26 @@
+{
+  "name": "Mae Larson",
+  "age": 30,
+  "address": {
+    "street": "Cenvup Boulevard",
+    "city": "Vijgilsa",
+    "state": "AK",
+    "zip": "31149"
+  },
+  "contact": {
+    "phone": "(985) 546-4535",
+    "servicePhone": "800128114"
+  },
+  "birthday": "1999-08-01T00:15:10.336Z",
+  "ip": "196.239.200.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Botje huin ga sipmuk edo fuv umuco puafi dow vit ka caz somiohi oju ulo iwoweduk komaohi ijvujuc. Ci ohopa at johu wecucje sedat ucasiha hotjuso ure pi fuci sumizapog. Siwuvofew jena puto vac nivri mab evoetapa eni ogaotove avnuz iswa dujekoj tigbeboc lenogi ramu.",
+    "bio": "Owicigu titios sadu wugzinu ugu wus nifevo micnusu doga eniosu sojve welijo. Cacgutul fa essosov zeho ju daogta hapve butledu cubguddi jawikpoz notbiz hahojtev. Daz uvafi rum ejididos ejetab mimak nar uhrod koipo lekophi ceda decju orazidu gilcavi. Be alubedub majzuibo ke jojkowa gurisa nup ni weduro veke su iwse uzida et ac. Ceju icpube meuto gut laupfem dathov migaj zorkumo roawues runiw uv du wuocmu anacike lapvawaz pedo. Zis sejfak of ireg ma rubve gifpivo obawo ad sog ejate voebiug heh at. Re ono juv zetud cewrapo don ce te ase gikiz bihuaf kudunizu fef za saj."
+  },
+  "apiKey": "45497f62ca0397f6a20da69f79218d34f0fab11fa76784a9c7a6f8d4be81d02d",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
