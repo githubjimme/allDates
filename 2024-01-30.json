@@ -1,0 +1,26 @@
+{
+  "name": "Ora Klein",
+  "age": 42,
+  "address": {
+    "street": "Wagle Boulevard",
+    "city": "Russasisa",
+    "state": "AR",
+    "zip": "48448"
+  },
+  "contact": {
+    "phone": "(781) 280-9001",
+    "servicePhone": "800959613"
+  },
+  "birthday": "1973-11-03T12:37:09.112Z",
+  "ip": "105.195.59.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Rode womo suvuttel hevwun rootawe dubuz vi tobelwaz ujkool paz sopeghi jufmis cikta bewmog ehfowubi. Wunnire modefa zig taksijup totif zevgillok jepaf denapoc julet tof ju fartocgij tafifi tepmofol iz. Uzajoj kipwokawe cop oru to ocami celopjic wid udozi debguki putif cuzduzu jonotki olilel. Jeiwi diba miho ca tak uhewuw hifjan betafele dojohekeh ezwaffig madezoc lasev. Mezfe vuvokol kisiw lanleg naha vewilfe tek habap af ileih domusebo tiobleb zi koazeog. Vieh ussifan wu pe kagkuzgar em aco bocu zofiso ufmodu aw ige.",
+    "bio": "Vu bavku wijej lupbibih pine gupittod hec te wotlun rukasma abesuvo jogevik takvebi ag. Janeim ho vajhaceme onupit diope he tuomi kuoha leef fevba geecubuj ovpowi. Kav bef letev lovo decapgos filerena la waeviute hofvoahe fi lawalab luokurib ronracfas. Canzacmok mope zovam jodetce ji mitdac gentijpo uti imtam ta je keecsa sape cotol po ar. Bupzo wupoduhah teafo ev emomap uburiaf ugbin fer opoja veibrub ibuhalli huppiloz ropatru."
+  },
+  "apiKey": "0361af675e0810abde666fd994948a48f3f0bf933cf23b4738e2003f0668a8c7",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
