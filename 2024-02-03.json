@@ -1,0 +1,26 @@
+{
+  "name": "Calvin Wong",
+  "age": 31,
+  "address": {
+    "street": "Ocigi Square",
+    "city": "Kokuez",
+    "state": "MD",
+    "zip": "43279"
+  },
+  "contact": {
+    "phone": "(547) 609-1797",
+    "servicePhone": "800924752"
+  },
+  "birthday": "1978-07-26T13:55:33.006Z",
+  "ip": "47.83.91.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhi zeome bum efogeg ni nom itofe fu rub curnac uvi duhod ver ce haadehov. Dogsu zug hunmodo rerisre gijeh toreh lu sabro kuvgarwis pofejlab mor zevsum enbal geida mawma fogtow zuloge. Guptohe bogeb de rijow esjobge fevsakwi koju zivup ijzom tuv owudo imwudfem koh. Mirotwa jeife gaw tiow inu ijovoih om su kefapzuv jeten it akegil ifube.",
+    "bio": "Iziga tu dokku nagvomuf zictas ni ufulabaz ojelol rano jufwidha nuduc innef kov ateod naf ewoihi. Zepverfib lekbandat secal tivwom darozbew relug dulhec sidem nucpekbuz cubadlo hesedel age senaki kivmewab canitga cetow. Bor ow afumuddi fobgekev alave lercak ri ihge foj jezipme lihjifnuk herof vinhupur soj."
+  },
+  "apiKey": "6c15c013acdeca0430effc69cc295b4c6b962dd011b501346698b57b3437c439",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
