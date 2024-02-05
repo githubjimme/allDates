@@ -1,0 +1,26 @@
+{
+  "name": "Garrett Fuller",
+  "age": 33,
+  "address": {
+    "street": "Bano Parkway",
+    "city": "Opsetev",
+    "state": "SD",
+    "zip": "57847"
+  },
+  "contact": {
+    "phone": "(986) 460-8685",
+    "servicePhone": "800369996"
+  },
+  "birthday": "1988-07-23T02:34:21.495Z",
+  "ip": "93.217.84.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuvjake mek ho mubiti va we cezmo vojojim rijate oje we hamwueh mov erme beazo kekiciwa. Nuvwief imo ifeput bek ko ibozeb ti tensug bok za lopeb omjomre mecizeifi cap. Vobsa efe dakisom zizteheb viegiafi amosvu tunobad nubigmud cug deze pev bira wanopdu aweharaj wudu.",
+    "bio": "Ut jefiwwe ud joomoaro eh anvazdol ezanipal hi noltub razibip se romlus. Maesdoj eglob fir rukkozef hokoco pacem abedesguh la tooj wesniva iv aco jasda zisban fiececak fabij. Nete mohugavo se maw ceasmof ohsa did mujikok famig oh liah meufi weiswa. Mipuvtu aduwo bieke ze upobufes kiumo ka zup bupuz hef ilu fermerjan irfomec hazwipi."
+  },
+  "apiKey": "f23b865bf505b9bc771977ed35dc499722ddfb84e45baeec26a31d3eb9ac0eb3",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
