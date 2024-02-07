@@ -1,0 +1,26 @@
+{
+  "name": "Violet Weber",
+  "age": 41,
+  "address": {
+    "street": "Ajisu Trail",
+    "city": "Rocecda",
+    "state": "IN",
+    "zip": "39539"
+  },
+  "contact": {
+    "phone": "(374) 751-8243",
+    "servicePhone": "800957515"
+  },
+  "birthday": "2001-07-01T00:36:06.318Z",
+  "ip": "157.93.92.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Poz gucnu rusuj pa coj ewofel koddoj bo kut luizada hil unan javujhob vubcoge fora okepe. Eg mo dopzeb got kolukde widlit etiima astoz ga ul jogofoko gatduri noz. Rugu saes falcoz lan rihiwtuk da zevnimli di raersi rorivli afe cigohfo.",
+    "bio": "Kik abo zar rad ovwo akosam fo efceena noh tawbi gabon be buwi zug riw fezohih be. Row kupfot ogwanco enidudic wecane lo vavvul tubdihjek kiti fuksehvow kogisgus oc ra dijpe pestun pundulu. Neza dup fa zin ehpitni javwaf iruzev fosujuha fap wobevgi ojcik wuwef hoksib baslef ivud selbulis kokoc."
+  },
+  "apiKey": "e42328d5c4b8204c608f60139603fba3b6c645e3d022770971532a80ada0fbab",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
