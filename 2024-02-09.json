@@ -1,0 +1,26 @@
+{
+  "name": "Leah Greer",
+  "age": 65,
+  "address": {
+    "street": "Hipit Plaza",
+    "city": "Mohbeto",
+    "state": "CA",
+    "zip": "45547"
+  },
+  "contact": {
+    "phone": "(921) 592-9585",
+    "servicePhone": "800478834"
+  },
+  "birthday": "1962-09-06T12:32:47.700Z",
+  "ip": "120.193.213.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Ac loeh wisu mihcap kurbik zu guvube ci tu feki zow ed igejon nugivzab ag wehra. Os wus wiceval atavi re re sezubomi irrudel ohud zah metum vu ifimijto. Fab zowol je mu visromog lonloh fuk bu odu anlef ecefoag zumol ru po.",
+    "bio": "Sak makwuzi giwika azo sav nu widkeb labpin ji irodi lidov wevode alu bumpodpem focvonatu. Papu desduk ku ocga dibofa piz belis fu fonmalis hofew imuhuw milbo ere cuko. Noaj revhozuw ofjoktij jeheip garcug cihu he bu vetjamek nacen zaho meztuan rakowi ihzetur ohirosoz. Nih od ho ra azeto posatnuc olocefwom fepu esze vowowi wupcohew ziowwor fit epapiuhu."
+  },
+  "apiKey": "1d5a3e2c794269510d34fc575ca3d73bf39cb3bb7e595574aacbe12ed5c3e89c",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
