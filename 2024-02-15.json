@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Nunez",
+  "age": 64,
+  "address": {
+    "street": "Avudok Mill",
+    "city": "Huatuit",
+    "state": "ME",
+    "zip": "19838"
+  },
+  "contact": {
+    "phone": "(678) 465-1653",
+    "servicePhone": "800695363"
+  },
+  "birthday": "1982-04-17T19:55:17.257Z",
+  "ip": "3.106.187.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Bedehe lerow tosiob wif tidgowav gohnevweh gousdih em nutmasmog gu vuhu acanos ecafo co bebem. Ti egitenom wenulge cib vafdev fotadej zamupmur timujocol ega fesjiek moikafo lude hu zizmojgid kemunbab bipjal budav dasbuz. Facdih le herewkut gucgena ifmec evu hocgas ewsoc mazzovema udijev otmuhla hedlamaj bajnucoja nicopfaj.",
+    "bio": "Tog oza go itu ve otuwow ahegal gobti zirog uwkeroh cod pubaw coc ocgu. Fe misibdas noubege dewip aflab davari fuw nozgu mituit opnoetu to mirwu ma rogdakew. Zouvi ekoromep po dor rankehow pozul ivorotob kojaeri zitruc du zuvicgo fut lena."
+  },
+  "apiKey": "c7581a6397e0436165ab9a2fb244bde108a8058689c8e2fe8c13624e91339441",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
