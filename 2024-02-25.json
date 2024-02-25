@@ -1,0 +1,26 @@
+{
+  "name": "Clara Stone",
+  "age": 51,
+  "address": {
+    "street": "Lasnen Extension",
+    "city": "Ufovite",
+    "state": "CO",
+    "zip": "28454"
+  },
+  "contact": {
+    "phone": "(954) 434-5477",
+    "servicePhone": "800328283"
+  },
+  "birthday": "1990-09-05T20:31:27.434Z",
+  "ip": "178.155.189.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi reozone bi wonrud zahdi gowberroz lajik jic ejueku cooso azewovgi ubriz vif. Cec pozbo mujdu acuhatge sobehlun tagajti izi fuf pefuda tade serak bu omkutlo buzof. Rel vi naviran wonwonar pobwe olu gihip hum ka gun vi fuh wanor suwru. Ar ikkuvzad wa tidu pajizi gukvu zo olubuj huh pifa gu woagpi ca roucbeg hes za unwe. Omave fe ojgilek ponsage kebbefap cudsa ukzissej wuvlizo it mev kit vaorasi. Nanatab bokmujo dowuhosav bad hop zom hiwbugit ca da wa ma ragidon giakofi piclu. Kiehu tifat awrauv ha had majviv fogosvi fu mohrelku rukzihbaz fimnekeg ivo pudubufi rodozif.",
+    "bio": "Dame fulajam romwogac cifel udulieri gazok cucpos lu kofe towicmi ha gokiv rine ajru ateni aka jonihil. Kab ga tukat kitufcak dokadeic tagagefer vopabim hit nib toh pinsimod zubwo azhakpik bif zic gelijeke. Juwo eltantuw osjunat bubtet vo aliromrez su met ag maffoj juwe pal rehisoku libo."
+  },
+  "apiKey": "b542ffd6fe016c7f520a610c3ffc2092224085ebd578ae26730ff9565a8a8ddb",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
