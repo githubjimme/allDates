@@ -1,0 +1,26 @@
+{
+  "name": "Cora Collins",
+  "age": 34,
+  "address": {
+    "street": "Tiwiva Highway",
+    "city": "Nilrakda",
+    "state": "FL",
+    "zip": "13627"
+  },
+  "contact": {
+    "phone": "(863) 836-3565",
+    "servicePhone": "800187843"
+  },
+  "birthday": "1989-06-22T06:22:46.072Z",
+  "ip": "130.175.43.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Adilat vuhipija opo ga ud ijadaz gesab wuznehuw sutju reorjuh kubopef turu. Zeg ne mitaru kevedti cu emiib ascere jul jodti ugti keohzol pukefi misujov mozbammek kegi picuftem celmeles. Caimu aguh bud kieldo ke lu ceukri ipapimo wuidef bizi vihbifa laguzkev etranok rinzafe.",
+    "bio": "Ruejo ulijahna hufmozi aneasinel hu ukuwe oz subles lesrolol mo muhkodi basolaz ikunaak virmibi cilrub rekigojor. Bi mucka fitofro he jifo hasut tejbo notu miraufo kojol owatiot hukcikim piw et. Luszid kecfib dihdov du da diw ol pehgif epjidab uhci pobewjun uk kigwotdu. Ab lotim kimvam we pu fek emacepo megajo ol uvimu vav ep gugho befalaka."
+  },
+  "apiKey": "5c10ccd07dc855e6b612604c51e304b8a25e1baed4d273bbd20f33454fb4c148",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
